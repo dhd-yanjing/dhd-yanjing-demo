@@ -1,7 +1,7 @@
 public class User{
 
 
-public int login;(){}
+public int login;(){master做的login}
 
 public int register;(){}
 public int add(){}
